@@ -1,0 +1,36 @@
+{
+  "name": "Freifunk Innsbruck",
+  "url": "https://www.freifunk-innsbruck.at",
+  "location": {
+    "city": "Innsbruck",
+    "country": "AT",
+    "lat": 47.2656628,
+    "lon": 11.3914261
+  },
+  "contact": {
+    "email": "rolf@netzwerkadmins.de",
+    "phone": "+436641793309"
+  },
+  "state": {
+    "focus": [
+      "infrastructure/backbone",
+      "Public Free Wifi",
+      "Social Community Building"
+    ],
+    "lastchange": "2016-06-16T07:10:59.666Z"
+  },
+  "nodeMaps": [
+    {
+      "url": "https://map.freifunk-innsbruck.at",
+      "interval": "5",
+      "technicalType": "meshviewer",
+      "mapType": "geographical"
+    }
+  ],
+  "api": "0.4.13",
+  "techDetails": {
+    "routing": [],
+    "updatemode": [],
+    "legals": []
+  }
+}
